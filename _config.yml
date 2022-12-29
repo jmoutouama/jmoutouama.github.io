@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Home.htlm",title: "About me"}
+  - {file: "/index.htlm",title: "About me"}
   - {file: "/MoutouamaCV.pdf",title: "CV"}
   - {file: "/Publications.md",title: "Publications"}
   - {url: "https://miller-lab-ecology.weebly.com",title: "Lab"}
