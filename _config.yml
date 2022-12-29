@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto: jmoutouama@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/jmoutouama"}
   - {title: ResearchGate, icon: researchGate, url: "https://www.researchgate.net/profile/Jacob-Moutouama"}
-  - {title: Twiter, icon: twiter, url: "https://twitter.com/JMoutouama"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/JMoutouama"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
