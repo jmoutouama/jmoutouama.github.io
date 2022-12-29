@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "MoutouamaCV.pdf",title: "CV"}
-  - {url: "https://miller-lab-ecology.weebly.com",title: "Lab"}
-  - {file: "/Project.md",title: "Projects"}
-  - {file: "/Publications.md",title: "Publications"}
+  - {url: "https://miller-lab-ecology.weebly.com",title: "LAB"}
+  - {file: "/Project.md",title: "PROJECTS"}
+  - {file: "/Publications.md",title: "PUBLICATIONS"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: jmoutouama@gmail.com"}
