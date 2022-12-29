@@ -1,6 +1,6 @@
 ---
 layout: Page
-Title: "Home"
+Title: "HOME"
 
 ---
 ![Gallery](assets/Gallery.jpg)
