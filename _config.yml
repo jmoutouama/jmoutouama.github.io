@@ -17,11 +17,14 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/MoutouamaCV.pdf",title: "CV"}
-  - {file: "/Publications.md",title: "Publications"}
   - {url: "https://miller-lab-ecology.weebly.com",title: "Lab"}
+  - {file: "/Project.md",title: "Projects"}
+  - {file: "/Publications.md",title: "Publications"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: jmoutouama@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/jmoutouama"}
+  - {title: ResearchGate, icon: researchGate, url: "https://www.researchgate.net/profile/Jacob-Moutouama"}
   - {title: Twiter, icon: twiter, url: "https://twitter.com/JMoutouama"}
 
 comments:
