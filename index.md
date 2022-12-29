@@ -1,6 +1,0 @@
----
-layout: Page
-Title: "Home"
-
----
-
