@@ -1,6 +1,6 @@
 ---
 layout: Page
-Title: "HOME"
+Title: "Home"
 
 ---
 
