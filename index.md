@@ -1,6 +1,6 @@
 ---
 layout:Page 
-title: "About me"
+title: "Home"
 ---
 
 I am a Postdoc in the Department of Bioscience at Rice University. My research revolves around understanding the mechanisms underlying species range limitation. 
