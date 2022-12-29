@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/index.md",title: " HOME"}
+  - {file: "/index.md",title: " Home"}
   - {file: "MoutouamaCV.pdf",title: "CV"}
-  - {url: "https://miller-lab-ecology.weebly.com",title: "LAB"}
-  - {file: "/Project.md",title: "PROJECTS"}
-  - {file: "/Publications.md",title: "PUBLICATIONS"}
+  - {url: "https://miller-lab-ecology.weebly.com",title: "Lab"}
+  - {file: "/Project.md",title: "Projects"}
+  - {file: "/Publications.md",title: "Publications"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: jmoutouama@gmail.com"}
