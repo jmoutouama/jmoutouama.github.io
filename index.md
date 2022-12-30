@@ -8,3 +8,4 @@ My research revolves around understanding the mechanisms underlying species rang
 
 I am also interested in understanding why and how local people select plants in the tropics. 
 
+![Forest](/assets/Gallery.jpg))
