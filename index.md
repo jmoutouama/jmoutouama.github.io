@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About me"
 ---
 *I am a postdoctoral research associate in Dr. Tom Miller’s lab at the Department of Bioscience, Rice University.* 
 
