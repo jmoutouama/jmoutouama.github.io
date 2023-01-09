@@ -1,4 +1,4 @@
 ---
 layout: CV
 ---
-![Alt](./file.pdf)
+![Alt](assets/CVMoutouama.pdf)
