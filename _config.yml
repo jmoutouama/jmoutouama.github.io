@@ -27,9 +27,4 @@ external:                  # shows a footer with social links - for available ic
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Jacob-Moutouama"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/JMoutouama"}
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
-plugins:
- - jekyll-feed
