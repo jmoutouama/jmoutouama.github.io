@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-description: The science that we do
 ---
 
 
