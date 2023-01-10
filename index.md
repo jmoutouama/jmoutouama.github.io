@@ -4,7 +4,6 @@ title: "About me"
 ---
 I am a postdoctoral research associate in Dr. Tom Miller’s <a href="https://miller-lab-ecology.weebly.com" target="_blank">lab</a> at <a href="https://www.rice.edu" target="_blank">Rice University</a>.
 
-My research revolves around understanding the mechanisms underlying species range limitation. I use manipulative and common garden experiments, field demographic studies, and mathematical models to uncover these mechanisms. 
-I am also interested in understanding why and how local people select plants in the tropics. 
+I study the mechanisms underlying species range limitation using mathematical models, field data, and experiments. I am also interested in understanding why and how local people select medicinal plants in the tropics. My research's ultimate goal is to communicate conservation actions needed for the viability of range-limited or over-utilized species to stakeholders. 
 
 ![Forest](/assets/Gallery.jpg)
