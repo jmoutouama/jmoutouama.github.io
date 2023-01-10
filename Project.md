@@ -21,7 +21,12 @@ Understanding the processes that generate limits on species’ geographic distri
 
 </div>
 
+<div class="pure-u-1 copy" markdown="1">
+# Hypothesis‐driven ethnobiology
 
+Ethnobiology as a discipline has evolved increasingly to embrace theory-inspired and hypothesis-driven approaches to study why and how local people choose plants and animals they interact with and use for their livelihood. This project  seeks to test some hypotheses in ethnobiology in Africa. 
+
+</div>
 
 
 
