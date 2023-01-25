@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 ---
 
 * **Moutouama JK** and Gaoue OG, (2023). Effects of range and niche position on population dynamics of a tropical plant. *Ecology*. In press
