@@ -11,6 +11,8 @@ layout: page
 
 Understanding the ecological and evolutionary drivers of species range limitation is a central debate in evolutionary ecology with direct implications for conservation ecology. This is important because such understanding provides insights into the mechanistic drivers of species adaptation or extinction in peripheral populations where species are often exposed to severe and stochastic biotic and abiotic stressors. The center-periphery hypothesis  posits that species performance decreases toward range periphery, a potential mechanism to explain range limitation. However, after several decades of testing the center-periphery hypothesis, we still lack general support for this hypothesis. In this project, I combined meta-analysis, field observation, and modeling to gain general understanding of the drivers of range limitation using the center-periphery hypothesis.
 
+![Range](/assets/Range limitation.png)
+
 </div>
 
 
