@@ -9,4 +9,4 @@ layout: page
 
 * **Moutouama JK** and Gaoue OG, (2022).  Soil nitrogen mediates the effect of climatic distance on herbivory rates in a tropical herb. *Biotropica*. 10.1111/btp.13082. <a href="https://drive.google.com/file/d/1uVeleGYPjpu70JB-3K669vsOmiyjbI4Y/view?usp=share_link" target="_blank">PDF</a> 
 
-* Gaoue O G., **Moutouama JK**, Coe M., Bond M. O. Bond, Green E., Sero N. B., Bezeng B. S., and Yessoufou K, (2021). Methodological advances for hypothesis-driven ethnobotany. *Biological Review*. 2021.00-00. 10.1111/brv.12752. <a href="https://drive.google.com/file/d/1uVeleGYPjpu70JB-3K669vsOmiyjbI4Y/view?usp=share_link" target="_blank">PDF</a> 
+* Gaoue O G., **Moutouama JK**, Coe M., Bond M. O. Bond, Green E., Sero N. B., Bezeng B. S., and Yessoufou K, (2021). Methodological advances for hypothesis-driven ethnobotany. *Biological Review*. 2021.00-00. 10.1111/brv.12752. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12752?casa_token=nLte9niw2isAAAAA%3AgdpnlHgYWS1qb7oqRdxnFygx8IyOS9_oCVCo_SD5N40W70hZLQAmV3bimTIGQ6Ky5HwgS-Z3-OfWWhM" target="_blank">PDF</a> 
