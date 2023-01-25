@@ -2,7 +2,7 @@
 layout: page
 ---
 
-* **Moutouama JK** and Gaoue OG, (2023). Effects of range and niche position on population dynamics of a tropical plant. *Ecology*. In press
+* **Moutouama JK** and Gaoue OG, (2023). Effects of range and niche position on the population dynamics of a tropical plant. *Ecology*. In press
 
 * **Moutouama JK** and Gaoue OG, (2022). Altitude mediated soil properties, not geography or climatic distance, explains the abundance of a tropical endemic herb. *Ecology and Evolution*. 10.1002/ece3.8572. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.8572" target="_blank">PDF</a> 
 
