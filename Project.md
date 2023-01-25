@@ -13,7 +13,6 @@ Understanding the ecological and evolutionary drivers of species range limitatio
 
 </div>
 
-![Range](/assets/Range limitation.png)
 
 <div class="pure-u-1 copy" markdown="1">
 # The geographic footprint of host-symbiont mutualism
