@@ -29,7 +29,7 @@ Ethnobiology as a discipline has evolved increasingly to embrace theory-inspired
 
 </div>
 
-
+![Ethnobiology](/assets/Ethnobio.png)
 
 
 
