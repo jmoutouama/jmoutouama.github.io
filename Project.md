@@ -25,7 +25,8 @@ Understanding the processes that generate limits on species’ geographic distri
 <div class="pure-u-1 copy" markdown="1">
 # Hypothesis‐driven ethnobiology
 
-Ethnobiology as a discipline has evolved increasingly to embrace theory-inspired and hypothesis-driven approaches to study why and how local people choose plants and animals they interact with and use for their livelihood. This project  seeks to test some hypotheses in ethnobiology in Africa. 
+Ethnobiology as a discipline has evolved increasingly to embrace theory-inspired and hypothesis-driven approaches to study why and how local people choose plants and animals they interact with and use for their livelihood. However, testing complex hypotheses or a network of ethnobiological hypotheses is challenging, particularly for datasets with non-independent observations due to species phylogenetic relatedness or socio-relational links between participants. This project seeks to use advanced statistical methods to test major ethnobiology hypotheses. However, testing complex hypotheses or a network of ethnobiological hypotheses is challenging, particularly for datasets with non-independent observations due to species phylogenetic relatedness or socio-relational links between participants. This project seeks to use advanced statistical methods to test major ethnobiology hypotheses. This type of study could be used as a guide to design conservation actions for over-exploited species in tropical regions where local people rely heavily on medicinal plants for their healthcare. 
+
 
 </div>
 
