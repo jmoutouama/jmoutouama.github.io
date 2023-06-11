@@ -6,4 +6,4 @@ I am a postdoctoral research associate in Dr. Tom Miller’s <a href="https://mi
 
 I study the mechanisms underlying species range limitation using mathematical models, field data, and experiments. I am also interested in understanding why and how local people select medicinal plants in the tropics. My research's ultimate goal is to communicate conservation actions needed for the viability of range-limited or over-utilized species to stakeholders. Please find attached my <a href="https://drive.google.com/file/d/1uVeleGYPjpu70JB-3K669vsOmiyjbI4Y/view?usp=share_link" target="_blank">CV</a> for more information. 
 
-![Forest](/assets/Gallery.jpg)
+![Forest](/assets/JM.jpg)
